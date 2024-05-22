@@ -1,0 +1,1 @@
+2024-05-21 11:20:50.934 +03:00 [Information] {"FullName":"","MethodName":"\u003CHandle\u003Eb__2","User":"?","Parameters":[{"Name":"","Value":{"Name":"aaa","Roles":["Brands.Admin","Brands.Write","Brands.Create"],"BypassCache":false,"CacheKey":null,"CacheGroupKey":["GetBrands"]},"Type":"CreateBrandCommand"}]}
