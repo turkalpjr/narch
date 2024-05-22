@@ -1,4 +1,5 @@
 ﻿using System.Linq.Expressions;
+using core.Persistence.Dynamic;
 using core.Persistence.Paging;
 using Microsoft.EntityFrameworkCore.Query;
 
